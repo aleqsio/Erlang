@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HaskellBuildOptions">
+    <ghcPath>C:\Program Files\Haskell Platform\8.2.1\bin\ghc.exe</ghcPath>
+    <cabalPath>C:\Program Files\Haskell Platform\8.2.1\lib\extralibs\bin\cabal.exe</cabalPath>
+    <stackPath>C:\Users\User\AppData\Roaming\local\bin\stack.exe</stackPath>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Erlang 20" project-jdk-type="Erlang SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
